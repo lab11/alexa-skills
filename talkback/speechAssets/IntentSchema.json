@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "EchoIntent",
+      "slots": [
+       {
+         "name": "words",
+         "type": "LITERAL"
+       }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
